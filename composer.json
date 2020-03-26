@@ -35,7 +35,7 @@
      "extra": {
         "laravel": {
             "providers": [
-                "Djoudi\\LaravelH5p\\LaravelH5pServiceProvider"
+                "mahmoudalsaman\\LaravelH5p\\LaravelH5pServiceProvider"
             ],
             "aliases": {
                 "LaravelH5p": "Djoudi\\LaravelH5p\\Facades"
